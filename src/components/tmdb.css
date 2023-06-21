@@ -154,10 +154,30 @@ ul.reviews-list {
     .movie-card {
         width: calc(50% - 20px);
     }
+    .search-intro-container {
+        flex-wrap: wrap;
+    }
+    .search-form {
+        width: 100%;
+    }
+    .intro {
+        width: 100%;
+        margin-top: 20px;
+    }
 }
 
 @media (max-width: 480px) {
     .movie-card {
         width: calc(100% - 20px);
+    }
+    .search-intro-container {
+        flex-wrap: wrap;
+    }
+    .search-form {
+        width: 100%;
+    }
+    .intro {
+        width: 100%;
+        margin-top: 20px;
     }
 }
