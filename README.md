@@ -1,2 +1,3 @@
-# tt-education-app
+# TrendFlix Test App
  
+Welcome
