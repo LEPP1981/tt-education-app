@@ -1,8 +1,11 @@
 # TrendFlix Test App
+## This app is intended as a technical test for TT Education
  
-Welcome to the TrendFlix Test App for TT Education.
-This app is intended as a technical test. I have developed the app using:
 
-React.js
-Git
+This project is a fictional movies and tv shows guide displaying the latest flix available from the TMDB online. It allows users to browse a simple homepage module with the latest TV Shows and also allows users to search movies and shows by genre and year of release.
+
+### Initial Considerations
+
+* This project requires Axios to be installed
+* The node_modules folder has been left in the repo for conveniance
 
