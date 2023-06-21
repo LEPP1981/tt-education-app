@@ -7,5 +7,5 @@ This project is a fictional movies and tv shows guide displaying the latest flix
 ### Initial Considerations
 
 * This project requires Axios to be installed
-* The node_modules folder has been left in the repo for conveniance
+* The node_modules folder has been left in the repo for convenience
 
